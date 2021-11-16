@@ -13,10 +13,11 @@ namespace helloworld
             int lives = 3;
             int round = 1;
 
-            Console.WriteLine("Willkommen zu unserem Geoquiz. [...]\n\n\nSo funktioniert es:\n- Sie starten mit 3 Leben.\n- Eine Frage nach der anderen wird zufällig ausgewählt.\n- Jede Frage hat 3 Antwortmöglichkeiten .\n- Wenn die Frage falsch beantwortet oder die Zeit abgelaufen ist, verlieren Sie ein Leben.\n- Bei 0 Leben endet das Quiz.\n\nDrücken Sie eine beliebige Taste, um das Quiz zu beginnen!");
+            Console.WriteLine("Willkommen zu unserem Geoquiz.\n\n\nSo funktioniert es:\n- Sie starten mit 3 Leben.\n- Eine Frage nach der anderen wird zufällig ausgewählt.\n- Jede Frage hat 3 Antwortmöglichkeiten .\n- Wenn die Frage falsch beantwortet oder die Zeit abgelaufen ist, verlieren Sie ein Leben.\n- Bei 0 Leben endet das Quiz.\n\nDrücken Sie eine beliebige Taste, um das Quiz zu beginnen!");
             Console.ReadKey();
             Console.Clear();
-            string filePath = @"C:\Users\micha\OneDrive\Desktop\fragen.csv";
+            string filePath = @"";
+            // Insert your file path here ^
             
             string text = File.ReadAllText(filePath);
             string[] lines = text.Split("\r\n");
