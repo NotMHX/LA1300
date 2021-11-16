@@ -1,0 +1,14 @@
+C:\Users\micha\source\repos\LA_1300_Gazelle\LA_1300_Gazelle\obj\Debug\netcoreapp3.1\LA_1300_Gazelle.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\LA_1300_Gazelle\LA_1300_Gazelle\obj\Debug\netcoreapp3.1\LA_1300_Gazelle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\LA_1300_Gazelle\LA_1300_Gazelle\obj\Debug\netcoreapp3.1\LA_1300_Gazelle.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\LA_1300_Gazelle\LA_1300_Gazelle\obj\Debug\netcoreapp3.1\LA_1300_Gazelle.AssemblyInfo.cs
+C:\Users\micha\source\repos\LA_1300_Gazelle\LA_1300_Gazelle\obj\Debug\netcoreapp3.1\LA_1300_Gazelle.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\LA_1300_Gazelle\LA_1300_Gazelle\bin\Debug\netcoreapp3.1\LA_1300_Gazelle.exe
+C:\Users\micha\source\repos\LA_1300_Gazelle\LA_1300_Gazelle\bin\Debug\netcoreapp3.1\LA_1300_Gazelle.deps.json
+C:\Users\micha\source\repos\LA_1300_Gazelle\LA_1300_Gazelle\bin\Debug\netcoreapp3.1\LA_1300_Gazelle.runtimeconfig.json
+C:\Users\micha\source\repos\LA_1300_Gazelle\LA_1300_Gazelle\bin\Debug\netcoreapp3.1\LA_1300_Gazelle.runtimeconfig.dev.json
+C:\Users\micha\source\repos\LA_1300_Gazelle\LA_1300_Gazelle\bin\Debug\netcoreapp3.1\LA_1300_Gazelle.dll
+C:\Users\micha\source\repos\LA_1300_Gazelle\LA_1300_Gazelle\bin\Debug\netcoreapp3.1\LA_1300_Gazelle.pdb
+C:\Users\micha\source\repos\LA_1300_Gazelle\LA_1300_Gazelle\obj\Debug\netcoreapp3.1\LA_1300_Gazelle.dll
+C:\Users\micha\source\repos\LA_1300_Gazelle\LA_1300_Gazelle\obj\Debug\netcoreapp3.1\LA_1300_Gazelle.pdb
+C:\Users\micha\source\repos\LA_1300_Gazelle\LA_1300_Gazelle\obj\Debug\netcoreapp3.1\LA_1300_Gazelle.genruntimeconfig.cache
